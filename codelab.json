@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-03-06T14:17:10-05:00",
+  "id": "the-dot-card-workshop",
+  "duration": 32,
+  "title": "USF GDSC's Presents How to Program a Dot Card for a conference",
+  "summary": "Program a NFC Card to act as a DotCard",
+  "source": "README.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "nfc",
+    "markdown",
+    "programing"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "the-dot-card-workshop"
+}
